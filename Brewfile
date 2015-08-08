@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask atom
 cask cmake
 cask cuda
 cask onyx
@@ -82,14 +83,20 @@ brew xz
 
 # App Store applications
 appstore 1Password
+appstore GarageBand
+appstore iMovie
+appstore Keynote
+appstore Numbers
+appstore Pages
+appstore The Unarchiver
+appstore Twitter
+appstore Xcode
 appstore Aperture
 appstore Byword
 appstore Dash
 appstore Evernote
-appstore GarageBand
 appstore Growl
 appstore iAntivirus
-appstore iMovie
 appstore iPhoto
 appstore Logic Pro X
 appstore MainStage
@@ -102,7 +109,6 @@ appstore SketchBook
 appstore SketchBookExpress
 appstore Skitch
 appstore SkyDrive
-appstore The Unarchiver
-appstore Twitter
-appstore Xcode
-appstore YoruFukurou
+
+
+
