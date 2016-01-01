@@ -5,6 +5,7 @@
 tap caskroom/cask
 brew brew-cask
 cask atom
+cask blender
 cask cmake
 cask cuda
 cask onyx
@@ -109,6 +110,3 @@ appstore SketchBook
 appstore SketchBookExpress
 appstore Skitch
 appstore SkyDrive
-
-
-
